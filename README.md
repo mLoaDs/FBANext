@@ -1,6 +1,9 @@
 ![fbanextlogo](https://github.com/user-attachments/assets/4e4b2fb7-f29b-47db-97ca-7384716fc1f0)
 # FBANext360
- Is an Final Burn Alpha multi-arcade emulator port for XBox360 by Lantus and MagicSeb
+is a multi-arcade emulator based on the  FB Alpha (Final Burn Alpha).
+
+FBAnext is a Native port to Xbox 360 by Lantus and MagicSeb
+ 
 
 MagicSeb
 October 03,2013
