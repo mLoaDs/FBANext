@@ -2,6 +2,18 @@
 # FBANext360
  Is an Final Burn Alpha multi-arcade emulator port for XBox360 by Lantus and MagicSeb
 
+MagicSeb
+October 03,2013
+FBNAext v0.2.97.30 
+
+https://github.com/magicseb/fbanext
+
+Update to 0.2.97.30
+ 
+- Dragon Master does not work on 360.
+- Playmark games run without problems
+- Take the rom pack 0.2.97.29
+
 Features
 --------
 - Support for Capcom CPS-1 roms 
