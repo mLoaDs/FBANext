@@ -5,11 +5,19 @@ is a multi-arcade emulator based on the  FB Alpha (Final Burn Alpha).
 FBAnext is a Native port to Xbox 360 by Lantus and MagicSeb
  
 
-MagicSeb
-October 03,2013
-FBNAext v0.2.97.30 
+ 
 
 https://github.com/magicseb/fbanext
+
+Updated to official 0.2.97.31 code
+- Kaneko Supernova games do not work/no longer
+- Fixed a bug regarding ARM7 from the previous version, now all PGM games 
+  work.
+- Endian fix for detail2nose, d_mwarr, d_nemesis
+
+MagicSeb
+October 03,2013
+FBNAext v0.2.97.30
 
 Update to 0.2.97.30
  
