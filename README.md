@@ -8,7 +8,7 @@ https://github.com/magicseb/fbanext
 
 
 MagicSeb
-August 15,2014 
+August 14,2014 
 FBANext v0.2.97.31
 
 Updated to official 0.2.97.31 code
