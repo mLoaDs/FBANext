@@ -6,6 +6,11 @@ FBAnext is a Native port to Xbox 360 by Lantus and MagicSeb
 
 https://github.com/magicseb/fbanext
 
+
+MagicSeb
+August 15,2014 
+FBANext v0.2.97.31
+
 Updated to official 0.2.97.31 code
 - Kaneko Supernova games do not work/no longer
 - Fixed a bug regarding ARM7 from the previous version, now all PGM games 
@@ -14,7 +19,7 @@ Updated to official 0.2.97.31 code
 
 MagicSeb
 October 03,2013
-FBNAext v0.2.97.30
+FBANext v0.2.97.30
 
 Update to 0.2.97.30
  
