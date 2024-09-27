@@ -1,6 +1,6 @@
 MagicSeb
 August 14,2014
-FBNAext v0.2.97.31 
+FBANext v0.2.97.31 
 
 - Games Kaneko Supernova is not working / more
 - Fixed a bug with the ARM7 to the previous version, now all games work PGM.
@@ -12,7 +12,7 @@ However Suprnova works tjs not -Cyvern etc ..-
 ----------------------------
 MagicSeb
 October 03,2013
-FBNAext v0.2.97.30 custom 1.0
+FBANext v0.2.97.30 custom 1.0
 
 Update to 0.2.97.30
  
@@ -22,7 +22,7 @@ Update to 0.2.97.30
 ---------------------------------
 MagicSeb
 January 22,2013
-FBNAext v0.2.97.28 custom 1.1
+FBANext v0.2.97.28 custom 1.1
 
 Most of the fixes are from a previous version (Beta 2.2), I adapted them to the current version.
 Thanks to Lantus for doing the work for me
@@ -52,14 +52,14 @@ Big Endian FIX :
 -----------------------------
 MagicSeb
 December 31,2012
-FBNAext v0.2.97.28 custom 1.0 titles and previews are displayed
+FBANext v0.2.97.28 custom 1.0 titles and previews are displayed
 
 - Moonwalker BOOTLEG fix : 100% running now
 - Preview and titles OK: Using RomList.cpp from version 0.2.97.27
 --------------------------
 Lantus
 December 18,2012
-FBNAext v0.2.97.28
+FBANext v0.2.97.28
 
 - Added Ganbare Marin-kun to the CPS-1 driver [Barry, smitdogg, The Dumping Union]
 - Added Ghost Muncher to the Galaxian driver [Barry, Robbert, Misfitmame]
@@ -121,7 +121,7 @@ FBNAext v0.2.97.28
 ----------------------------------------
 MagicSeb
 November 20,2012
-FBNAext v0.2.97.27 Taito Sys B fix 
+FBANext v0.2.97.27 Taito Sys B fix 
 
 - Taito b games should be fixed : Rambo 3 and Crime City tested and finally works !
 - Screen Resize is saved now. You don't have to resize again after restart.
@@ -129,7 +129,7 @@ FBNAext v0.2.97.27 Taito Sys B fix
 -----------------------------------------------
 MagicSeb
 November 1,2012
-FBNAext v0.2.97.27 fix 
+FBANext v0.2.97.27 fix 
 
 - d_cbuster.cpp : Colorfix + No crash
 - d_simpl156.cpp : Sprites is ok but no background ???
@@ -137,7 +137,7 @@ FBNAext v0.2.97.27 fix
 ------------------------------------
 Lantus
 August 26,2012
-FBNAext v0.2.97.27
+FBANext v0.2.97.27
 
  +Sound Improvements
 - Tidied sound chip interfaces, adding support for volume and left/right 
@@ -218,7 +218,7 @@ Xbox Specific Changes
 ----------------------------------------
 MagicSeb
 June 28,2012
-FBNAext v0.2.97.26 MagicSeb custom *maj version 3*
+FBANext v0.2.97.26 MagicSeb custom *maj version 3*
 
 - Fixed color bug (rygar, rainbow island...)
 - Fixed Titles display
@@ -226,7 +226,7 @@ FBNAext v0.2.97.26 MagicSeb custom *maj version 3*
 -----------------------------
 Lantus
 April 27,2012
-FBNAext v0.2.97.25
+FBANext v0.2.97.25
 
 - CPS-1 Updates, most of the bootlegs now work well and without patches to hack 
   them to work like the originals (brief,incomplete summary below) [Barry, JacKc, bonky_0013, f205v]
@@ -294,7 +294,7 @@ FBNAext v0.2.97.25
 ------------------------------------
 lantus
 January 12,2011
-FBNAext Beta 2.2
+FBANext Beta 2.2
 
 - Added video previews. The format must be .wmv and placed in the following directory: 
   GAME:\Videos. (or in the "Videos" directory of the emulator). 
@@ -326,7 +326,7 @@ FBNAext Beta 2.2
 -----------------------------
 lantus
 August 21,2010
-FBNAext Beta 2.1
+FBANext Beta 2.1
 
 - Performance improvements with Sega X-Board/Y-Board drivers
 - Bug fixes in skin movement
@@ -336,7 +336,7 @@ FBNAext Beta 2.1
 ----------------------- 
 lantus
 August 17,2010
-FBNAext Beta 2
+FBANext Beta 2
   
 - Added full support for arcade sticks. Sticks are auto-detected, and back + start displays the in-game menu.
 - Added the ability to resize the screen. If you are using an arcade stick, hold "B" + move to stretch the screen, 
@@ -375,7 +375,7 @@ FBNAext Beta 2
 ----------------------------------
 lantus
 July 28,2010
-FBNAext Beta 2
+FBANext Beta 2
 
 * Added 68000 overclock option
 * Fixed d_aerofgt endian.
@@ -405,7 +405,7 @@ FBNAext Beta 2
 -----------------
 lantus
 July 02,2010
-FBNAext Beta 1
+FBANext Beta 1
 
 To do:
 ========
